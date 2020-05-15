@@ -1,5 +1,7 @@
 This is the first place solution for the [Womxn in Big Data South Africa: Female-Headed Households in South Africa Challenge.](https://zindi.africa/competitions/womxn-in-big-data-south-africa-female-headed-households-in-south-africa) 
 
+Go to Zindi to download the data. 
+
 The objective of this challenge was to build a predictive model that accurately estimates the % of households per ward that are female-headed and living below a particular income threshold by using data points that can be collected through other means without an intensive household survey like the census. 
 
 Read more aboout the winners [here](https://zindi.africa/blog/meet-the-winners-of-the-womxn-in-big-data-south-africa-female-headed-households-in-south-africa-challenge).
